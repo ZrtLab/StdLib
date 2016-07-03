@@ -1,5 +1,5 @@
 {
-	"name": "pimientadigital/stdlib",
+	"name": "zrtlab/stdlib",
 	"description": "Libreria standard Tools",
 	"keywords": [
         "library",
@@ -16,14 +16,14 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/pimientadigital/StdLib/issues",
-        "wiki": "https://github.com/pimientadigital/StdLib/wiki",
-        "source": "https://github.com/pimientadigital/StdLib"
+        "issues": "https://github.com/zrtlab/StdLib/issues",
+        "wiki": "https://github.com/zrtlab/StdLib/wiki",
+        "source": "https://github.com/zrtlab/StdLib"
     },
-    "homepage": "https://github.com/pimientadigital/Stdlib",
+    "homepage": "https://github.com/zrtlab/StdLib",
     "license": "MIT",
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3"
     },
     "require-dev": {
         "fzaninotto/faker": "dev-master",
